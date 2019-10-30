@@ -4,7 +4,7 @@
   "description": "## Overview",
   "main": "index.js",
   "scripts": {
-   "test": "echo 'Hello World!'"
+    "test": "echo 'Hello World!'"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Dhuha9/npm-lab-recoded-baghdad-2019/issues"
   },
-  "homepage": "https://github.com/Dhuha9/npm-lab-recoded-baghdad-2019#readme"
+  "homepage": "https://github.com/Dhuha9/npm-lab-recoded-baghdad-2019#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
 }
